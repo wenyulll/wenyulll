@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wenyu-li-315b3198/)](https://www.linkedin.com/in/wenyu-li-315b3198/)
 
-[![Portfolio Badge](https://img.shields.io/badge/https://wenyu.site/)](https://wenyu.site/)
+ 
