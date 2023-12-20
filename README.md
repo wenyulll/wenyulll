@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
-
+ 
 I am passionate about coding. Recently completed intensive training in full stack development. Actively seeking a new role in software engineering where I can apply my skills and continue growing.
 
 
