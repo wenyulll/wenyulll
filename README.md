@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=your-linkedin-url)](your-linkedin-url)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=your-twitter-url)](your-twitter-url)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blue)](your-portfolio-url)
