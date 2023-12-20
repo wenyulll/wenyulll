@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wenyu-li-315b3198/)](https://www.linkedin.com/in/wenyu-li-315b3198/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=your-twitter-url)](your-twitter-url)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blue)](your-portfolio-url)
+
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blue)](https://wenyu.site/)
