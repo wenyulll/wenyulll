@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Wenyu 🌟
+# 👋 Hi there, I'm Wenyu 😺
 
 Welcome to my digital realm where code meets creativity!
 
