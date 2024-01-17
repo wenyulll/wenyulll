@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 🌐 Actively seeking opportunities to bring fresh ideas and energy to a software engineering team.
 
 ## 📬 Let's Connect!
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [wenyu414@gmail.com](mailto:wenyu414@gmail.com)
 - 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wenyu-li-315b3198/)](https://www.linkedin.com/in/wenyu-li-315b3198/)
 
