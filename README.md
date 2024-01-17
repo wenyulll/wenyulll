@@ -40,9 +40,6 @@ Here are some ideas to get you started:
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
 ### 🛠️ Tools & Ops
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-hite)
-
-
 
 ## 🚀 My Coding Journey
 - 💡 Intensive training in full-stack development - transformed from a curious learner to a confident coder.
