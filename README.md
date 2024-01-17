@@ -1,4 +1,12 @@
-### Hi there 👋
+# 👋 Hi there, I'm Wenyu 🌟
+
+Welcome to my digital realm where code meets creativity!
+
+## 🌟 About Me
+- 🧠 Passionate coder with a zeal for full stack development.
+- 🎓 Recently graduated from an intensive full-stack development program.
+- 🌱 Eager to contribute, learn, and grow in a dynamic software engineering role.
+
 
 <!--
 **wenyulll/wenyulll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
