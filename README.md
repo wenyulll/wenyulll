@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 - 📧 Email: [wenyu414@gmail.com](mailto:wenyu414@gmail.com)
 - 🔗 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wenyu-li-315b3198/)](https://www.linkedin.com/in/wenyu-li-315b3198/)
 
+## 🌐 Dive Into My World
+Explore my portfolio and see what I've been up to! Check it out here: [My Portfolio](https://wenyu.site/)
+
