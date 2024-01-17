@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Wenyu 😺
-
 Welcome to my digital realm where code meets creativity!
-
 ## 🌟 About Me
 - 🧠 Passionate coder with a zeal for full stack development.
 - 🎓 Recently graduated from an intensive full-stack development program.
@@ -31,4 +29,3 @@ Welcome to my digital realm where code meets creativity!
 - 📧 Email: [wenyu414@gmail.com](mailto:wenyu414@gmail.com)
 - 🔗 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wenyu-li-315b3198/)](https://www.linkedin.com/in/wenyu-li-315b3198/)
 - 🌐 Portfolio: [![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat&logo=GoogleChrome&logoColor=white&link=https://wenyu.site/)](https://wenyu.site/)
-
