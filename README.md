@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 - 😄 she/her
 - ⚡ Fun fact: ...
 -->
-
- 
-I am passionate about coding. Recently completed intensive training in full stack development. Actively seeking a new role in software engineering where I can apply my skills and continue growing.
-
-
+## 🛠️ Tech Toolkit
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -39,7 +35,12 @@ I am passionate about coding. Recently completed intensive training in full stac
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
 
+## 🚀 My Coding Journey
+- 💡 Intensive training in full-stack development - transformed from a curious learner to a confident coder.
+- 🌐 Actively seeking opportunities to bring fresh ideas and energy to a software engineering team.
 
-
+## 📬 Let's Connect!
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wenyu-li-315b3198/)](https://www.linkedin.com/in/wenyu-li-315b3198/)
 
