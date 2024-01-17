@@ -6,22 +6,6 @@ Welcome to my digital realm where code meets creativity!
 - 🧠 Passionate coder with a zeal for full stack development.
 - 🎓 Recently graduated from an intensive full-stack development program.
 - 🌱 Eager to contribute, learn, and grow in a dynamic software engineering role.
-
-
-<!--
-**wenyulll/wenyulll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 I am passionate about coding. Recently completed intensive training in full stack development, including Python, JavaScript, and React. Actively seeking a new role in software engineering where I can apply my skills and continue growing.
-- 📫 wenyu414@gmail.com
-- 😄 she/her
-- ⚡ Fun fact: ...
--->  
 ## 🛠️ Tech Toolkit
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -40,16 +24,11 @@ Here are some ideas to get you started:
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
 ### 🛠️ Tools & Ops
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ## 🚀 My Coding Journey
 - 💡 Intensive training in full-stack development - transformed from a curious learner to a confident coder.
 - 🌐 Actively seeking opportunities to bring fresh ideas and energy to a software engineering team.
-
-
 ## 📬 Let's Connect!
 - 📧 Email: [wenyu414@gmail.com](mailto:wenyu414@gmail.com)
 - 🔗 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wenyu-li-315b3198/)](https://www.linkedin.com/in/wenyu-li-315b3198/)
-
-## 🌐 Dive Into My World
-Explore my portfolio and see what I've been up to! Check it out here: [My Portfolio](https://wenyu.site/)
+- 🌐 Portfolio: [![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat&logo=GoogleChrome&logoColor=white&link=https://wenyu.site/)](https://wenyu.site/)
 
