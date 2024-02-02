@@ -26,7 +26,7 @@ Welcome to my digital realm where code meets creativity!
 - 💡 Intensive training in full-stack development - transformed from a curious learner to a confident coder.
 - 🌐 Actively seeking opportunities to bring fresh ideas and energy to a software engineering team.
 ## 📬 Let's Connect!
-- 📧 Email: [wenyu414@gmail.com](mailto:wenyu414@gmail.com)
+- 📧 Email: [wenyu414@gmail.com](mailto:wenyu414@gmail.com) 
 - 🔗 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wenyu-li-315b3198/)](https://www.linkedin.com/in/wenyu-li-315b3198/)
 - 🌐 Portfolio: [![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat&logo=GoogleChrome&logoColor=white&link=https://wenyu.site/)](https://wenyu.site/)
 
